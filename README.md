@@ -27,7 +27,33 @@ The international student body is characterized by a large number of nationaliti
 
 ## Definition of the survey objectives
 ### What should the survey find out?
-### Concrete questions
+The aim of this survey is to gain an in-depth understanding of how international students in Berlin use the available digital citizen services and which factors influence their use. The survey focuses on the following aspects:
+
+The focus of this study is on the extent of use of digital citizen services by international students in Berlin. The survey aims to determine the extent and purpose of the use of digital citizen services by international students in Berlin. The survey aims to determine which specific digital citizen services are most frequently used by international students in Berlin and which are less frequented.
+
+- Reasons for use or non-use: The aim of this study is to determine which motives or obstacles lead to students using or avoiding digital citizen services. In this regard, technical barriers, language barriers, the user-friendliness of the platforms, trust in the online services and other personal preferences are particularly relevant.
+
+- Hurdles and challenges: A key aspect of the survey is the identification of specific obstacles that international students encounter when using digital services. In particular, technical difficulties, insufficient language support, lack of clarity in navigation and a lack of knowledge about the available services should be mentioned in this regard.
+
+Furthermore, the extent to which linguistic and technical accessibility of digital services is guaranteed must be determined. The survey also aims to explore ways of making digital citizen services accessible, in particular language-accessible. The survey aims to find out which linguistic or cultural adaptations are necessary to optimize and facilitate the use of digital citizen services by international students.
+
+### Specific questions (in progress)
+Based on the above objectives, the following specific questions are formulated in order to gather the necessary information:
+
+Questions about the scope of use:
+How often do you use digital citizen services of the state of Berlin?
+Which of the following digital citizen services have you used in the last six months?
+
+Questions about the reasons for use or non-use:
+What are your main reasons for using digital citizen services? 
+What are your main reasons for not using digital citizen services? 
+To what extent do you trust digital citizen services in terms of data protection and security? 
+
+What difficulties have you experienced when using digital citizen services? 
+
+Questions about (language) accessibility:
+What linguistic adaptations would make it easier for you to use digital citizen services?
+
 
 ## Methodology
 ### Selection of the survey method
@@ -111,7 +137,7 @@ Participation is anonymous. Participants will be provided with a link to the sur
 **Ensuring confidentiality:**
 - Data access: Access to the collected data is strictly limited to authorized persons who are directly involved in the analysis and evaluation of the survey. The data will only be passed on to third parties if this is required by law or if the participants have given their express consent.
 - Storage and deletion: The storage and deletion of the data takes place in a secure environment and is only maintained for as long as is necessary for the analysis of the survey and the preparation of the final report. After completion of the project, the data will be deleted in accordance with the applicable data protection guidelines.
-- 
+
 These measures are implemented as follows:
 - The “Anonymized responses” setting is activated in Google Forms to ensure that no personal data is automatically collected.
 - All data is stored in a secure and encrypted format to ensure the confidentiality and integrity of the data.
