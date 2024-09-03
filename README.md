@@ -144,7 +144,14 @@ These measures are implemented as follows:
 
 ## Implementation of the survey
 ### Schedule and deadlines
+The project will be completed within nine days, with the presentation of the final results scheduled for the tenth day. 
+Therefore, it is imperative that the survey be completed as expeditiously as possible. Given the limited time frame, it may be necessary to consider the creation of a brief survey that does not unduly burden the participant and can be processed with minimal delay.
+
 ### Selection of participants
+Participants are not selected based on specific criteria outside of the task. Restrictions are made based on questions that allow participants to be categorized into, for example, EU and non-EU countries.
+In addition, CityLab Berlin makes its reach available in order to send the survey to as many people as possible. This enables representative data to be generated for research.
+In addition, the reach of Berlin's universities, in particular the HTW and HWR, can be used.
+However, according to the General Data Protection Regulation (GDPR), it is not possible for us to make a pre-selection based on personal criteria.
 
 ## Data analysis
 ### Preparation of the survey results
