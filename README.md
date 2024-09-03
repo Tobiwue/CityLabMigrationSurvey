@@ -41,18 +41,17 @@ Furthermore, the extent to which linguistic and technical accessibility of digit
 Based on the above objectives, the following specific questions are formulated in order to gather the necessary information:
 
 Questions about the scope of use:
-How often do you use digital citizen services of the state of Berlin?
-Which of the following digital citizen services have you used in the last six months?
+- How often do you use digital citizen services of the state of Berlin?
+- Which of the following digital citizen services have you used in the last six months?
 
 Questions about the reasons for use or non-use:
-What are your main reasons for using digital citizen services? 
-What are your main reasons for not using digital citizen services? 
-To what extent do you trust digital citizen services in terms of data protection and security? 
-
-What difficulties have you experienced when using digital citizen services? 
+- What are your main reasons for using digital citizen services? 
+- What are your main reasons for not using digital citizen services? 
+- To what extent do you trust digital citizen services in terms of data protection and security? 
+- What difficulties have you experienced when using digital citizen services? 
 
 Questions about (language) accessibility:
-What linguistic adaptations would make it easier for you to use digital citizen services?
+- What linguistic adaptations would make it easier for you to use digital citizen services?
 
 
 ## Methodology
