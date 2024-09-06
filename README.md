@@ -94,6 +94,7 @@ Data collection is followed by analysis and reporting. For this purpose, the dat
 ### Types of questions (open questions, closed questions, scale questions, etc.)
 ### Formulation of the questions: comprehensibility, neutrality, relevance
 ### Pre-testing and revision of the questionnaire
+Given the limited timeframe for the project, it is not feasible to conduct a comprehensive evaluation of the questionnaire on a large scale. Instead, the questionnaire is being revised by the team members involved in the project.
 
 ## Data protection and ethics
 ### Data protection guidelines and requirements
