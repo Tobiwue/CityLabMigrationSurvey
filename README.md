@@ -91,8 +91,27 @@ Data collection is followed by analysis and reporting. For this purpose, the dat
 
 ## Development of the questionnaire
 ### Structure and layout of the questionnaire
+The questionnaire is divided into four sections, each addressing a key area related to the use of digital citizen services by international students in Berlin:
+- Use of digital services: This section aims to establish how frequently international students use the digital services provided by the Berlin administration, including specific services such as online registration, appointments and other e-government services.
+- Language barriers and translation tools: This section explores whether language barriers play a role in hindering the use of these services. It also assesses the effectiveness of tools like Google Translate that students may rely on for understanding the services.
+- Suggestions for improvement: This section provides respondents with the opportunity to suggest ways to improve the usability and accessibility of digital services, with a focus on language support and user experience.
+- Open feedback: Here, students are encouraged to give any additional insights on what might motivate them to use the online services more frequently instead of visiting administrative offices in person.
+
+The survey is available in three languages – German, English and Ukrainian – to cater to the linguistic diversity of international students. The overall structure is designed to move from factual questions to more open-ended ones.
+
 ### Types of questions (open questions, closed questions, scale questions, etc.)
+A mix of question types is used in the survey to collect a broad range of data:
+- Closed questions: These are used to obtain clear, quantifiable responses. For example, students are asked how often they use Berlin’s digital services, with predefined options for frequency.
+- Scale questions: To assess the level of satisfaction with the usability of translation tools, scale-based questions are included. These questions help in gauging the effectiveness of tools like Google Translate.
+- Open-ended questions: To gather more detailed insights, open-ended questions invite students to express their thoughts freely. This allows for deeper understanding of personal experiences and unique challenges.
+- Multiple-choice questions with the option for multiple responses: In certain areas, such as the barriers to service usage, students can select multiple reasons.
+
 ### Formulation of the questions: comprehensibility, neutrality, relevance
+The questions are formulated to be easily understood and neutrally worded, ensuring that participants can respond without being led toward a particular answer:
+- Comprehensibility: The language of the questions is kept simple and direct, ensuring that students from various linguistic backgrounds can easily understand the content. For instance, "What prevents you from using digital services more often?" avoids complex phrasing.
+- Neutrality: Questions are worded in a way that does not suggest any particular response. For example, "Do you use translation tools like Google Translate when interacting with digital services?" allows for an unbiased reflection of students' behavior.
+- Relevance: Each question is closely tied to the core objectives of the study, ensuring that the data gathered will directly contribute to understanding how to enhance the use of digital services by international students.
+
 ### Pre-testing and revision of the questionnaire
 Given the limited timeframe for the project, it is not feasible to conduct a comprehensive evaluation of the questionnaire on a large scale. Instead, the questionnaire is being revised by the team members involved in the project.
 
