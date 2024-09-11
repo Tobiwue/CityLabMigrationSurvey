@@ -37,7 +37,7 @@ The focus of this study is on the extent of use of digital citizen services by i
 
 Furthermore, the extent to which linguistic and technical accessibility of digital services is guaranteed must be determined. The survey also aims to explore ways of making digital citizen services accessible, in particular language-accessible. The survey aims to find out which linguistic or cultural adaptations are necessary to optimize and facilitate the use of digital citizen services by international students.
 
-### Specific questions (in progress)
+### Specific questions 
 Based on the above objectives, the following specific questions are formulated in order to gather the necessary information:
 
 Questions about the scope of use:
