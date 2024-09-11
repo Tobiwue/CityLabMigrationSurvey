@@ -25,9 +25,28 @@ The following key characteristics of international students are considered in th
 
 The international student body is characterized by a large number of nationalities, with students coming from different parts of the world. This leads to linguistic diversity, as students' language skills vary greatly. While some students are fluent in German and/or English, others only have a basic knowledge of these languages. In addition, the academic goals of the students vary considerably. Academic programs range from bachelor's to master's to doctoral programs. Some students also take part in exchange programs or temporary study visits.
 
+## Pre-Survey Interviews at a Citizens' Registration Office in Berlin
+As part of the preparatory work for an upcoming survey, we conducted a series of interviews outside a citizens' registration office in Berlin. The objective of these interviews was to gather qualitative insights that could inform the structure and content of the main survey. This approach allowed us to understand the public's perceptions, experiences, and priorities, which are crucial for crafting relevant survey questions.
+
+### Methodology
+The interviews were conducted over a period of two days, targeting a diverse group of individuals as they visited the office. We approached people, requesting a few minutes of their time to discuss their experiences with the digital citizen services. Each interview lasted approximately 5-10 minutes, focusing on open-ended questions that encouraged participants to share their thoughts freely.
+
+### Interview Questions
+The questions were designed to be open-ended to elicit detailed responses. Key questions included:
+-	“Have you ever used online citizen services of the city of Berlin?”
+-	If no: “Why don’t you use the city’s digital citizen services?”
+-	If yes: "What experiences have you had with the online citizen services?"
+
+### Insights Gained
+The insights from these interviews were invaluable, revealing common patterns and unique perspectives on visitor efficiency, challenges, and satisfaction. These insights helped identify key focus areas for the survey, such as efficiency, strengths and weaknesses of digital services as well as overall user satisfaction.
+Application to the Survey
+Based on the interviews, we tailored the survey questions to be directly relevant to the issues and suggestions raised by the respondents. This not only ensures that the survey is based on real user experiences, but also increases the likelihood of meaningful respondent engagement.
+In summary, the pre-survey interviews were instrumental in shaping a well-informed and focused survey. By understanding the public's first-hand experiences and expectations, we can better address the issues at hand and effectively contribute to service improvements of digital services.
+
+
 ## Definition of the survey objectives
 ### What should the survey find out?
-The aim of this survey is to gain an in-depth understanding of how international students in Berlin use the available digital citizen services and which factors influence their use. The survey focuses on the following aspects:
+As already mentioned, the aim of this survey is to gain an in-depth understanding of how international students in Berlin use the available digital citizen services and which factors influence their use. The survey focuses on the following aspects:
 
 The focus of this study is on the extent of use of digital citizen services by international students in Berlin. The survey aims to determine the extent and purpose of the use of digital citizen services by international students in Berlin. The survey aims to determine which specific digital citizen services are most frequently used by international students in Berlin and which are less frequented.
 
