@@ -218,4 +218,9 @@ The results suggest that participants highly value simpler website structures an
 
 ## Conclusion
 ### Summary of the most important findings
+In this project, we identified both positive and negative aspects of the online services. Firstly chatbot support appears to be less relevant, as many users do not seem to rely on it. However there is a clear demand for online services, indicating that people are willing to use them. The browser translator can be somewhat helpful, although it does not always work perfectly.
+
+On the negative side, we found several issues with the online services. The system is complex and the website structure is difficult to navigate, which makes it hard for users to find the information they need. Additionally, there is a lack of detailed information about the available services, which contributes to the confusion. Finally, the absence of language support presents a challenge for non-native speakers trying to access the services.
+
+In conclusion, the online services need to become more user-friendly, with improved language support and clearer information to better assists users.
 ### Outlook for future developments and research
