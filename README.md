@@ -218,9 +218,16 @@ The results suggest that participants highly value simpler website structures an
 
 ## Conclusion
 ### Summary of the most important findings
-In this project, we identified both positive and negative aspects of the online services. Firstly chatbot support appears to be less relevant, as many users do not seem to rely on it. However there is a clear demand for online services, indicating that people are willing to use them. The browser translator can be somewhat helpful, although it does not always work perfectly.
+In this project, we found both good and bad points about the online services. First, chatbot support is not very important for most users, as many do not seem to use it. However, there is a clear demand for online services, showing that people are willing to use them. The browser translator helps in some cases but does not always work well.
 
-On the negative side, we found several issues with the online services. The system is complex and the website structure is difficult to navigate, which makes it hard for users to find the information they need. Additionally, there is a lack of detailed information about the available services, which contributes to the confusion. Finally, the absence of language support presents a challenge for non-native speakers trying to access the services.
+On the negative side, we noticed several problems with the online services. The system is complex and the website is hard to navigate, making it difficult for users to find the information they need. There is also not enough detailed information about the available services, which causes more confusion. Finally, the lack of language support makes it hard for non-native speakers to access the services.
 
-In conclusion, the online services need to become more user-friendly, with improved language support and clearer information to better assists users.
-### Outlook for future developments and research
+In summary, the online services need to be simpler and more user-friendly, with better language support and clearer information to help users.
+
+### Outlook for future developments and research:
+
+In the future, it is important to focus on simplifying the online services' structure and process. Easier-to-use services will motivate more people to use them. One key area for improvement is to add better language support, especially for non-native speakers, to make the platforms available to more people.
+
+Further research could look at the specific needs of different user groups, especially those who have difficulties with the current system. It could also be useful to study how people interact with online services and to test new features, such as a better browser translator or easier navigation.
+
+In general, the goal should be to create more efficient, accessible, and user-friendly digital services that meet the needs of a diverse population.
