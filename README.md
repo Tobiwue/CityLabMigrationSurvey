@@ -197,7 +197,7 @@ However, according to the General Data Protection Regulation (GDPR), it is not p
 ### Preparation of the Survey Results
 The survey was prepared in three languages: English, Arabic and Ukrainian. Unfortunately, we received no responses in Ukrainian, so the analysis will focus on the English and Arabic results. The survey aimed to understand the difficulties people face when using digital citizen services in Berlin and to find out what improvements could make these services more accessible and user-friendly.
 
-The questions focused on participants’ usage of digital services, the barriers they encounter, and what features would encourage them to use the services more frequently. Both multiple-choice and open-ended questions were used to gather qualitative and quantitative data.
+The questions focused on participants’ usage of digital services, the barriers they encounter and what features would encourage them to use the services more frequently. Both multiple-choice and open-ended questions were used to gather qualitative and quantitative data.
 
 ### Evaluation Methods
 The analysis of the data involved reviewing the responses for both the English and Arabic versions of the survey. We primarily looked at multiple-choice questions to identify common barriers to using digital services, such as difficulty understanding the websites, confusing navigation, lack of language options, and trust issues with online services.
