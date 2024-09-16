@@ -2,7 +2,7 @@
 
 ## Introduction
 ### Background of the challenge
-In recent years, digitalization has become considerably more important, especially in the public sector. Although a large number of digital citizen services aim to optimize the efficiency and accessibility of administrative services, it is clear that the use of these services by citizens often falls short of expectations. In a recent interview, Martina Clement, Chief Digital Officer of the state of Berlin, emphasized that the use of the more than 350 available online services still has considerable room for improvement. A large proportion of the population still prefers personal contact at citizens' offices, which points to various challenges and barriers in the use of digital services.
+In recent years, digitalization has become considerably more important, especially in the public sector. Although a large number of digital citizen services aim to optimize the efficiency and accessibility of administrative services, it is clear that the use of these services by citizens often falls short of expectations. In a recent interview, Martina Clement, Chief Digital Officer of the state of Berlin, emphasized that the use of the more than 350 available online services still has considerable room for improvement. A large proportion of the population still prefers personal contact at citizens' offices, which points to various challenges and barriers in the use of digital services.[[1]](https://www.zeit.de/news/2023-12/31/die-digitale-meldebescheinigung-ist-noch-nicht-der-renner)
 
 ### Problem definition and relevance
 The low use of digital citizen services leads to the conclusion that the existing online services may not be sufficiently tailored to the needs and expectations of all user groups. International students in particular, who often face particular linguistic and cultural challenges, could be affected by specific barriers when using these services. Better adaptation and optimization of digital services could not only increase usage by this group, but also facilitate their integration and participation in public life.
@@ -231,3 +231,6 @@ In the future, it is important to focus on simplifying the online services' stru
 Further research could look at the specific needs of different user groups, especially those who have difficulties with the current system. It could also be useful to study how people interact with online services and to test new features, such as a better browser translator or easier navigation.
 
 In general, the goal should be to create more efficient, accessible, and user-friendly digital services that meet the needs of a diverse population.
+
+### Sources
+[1] https://www.zeit.de/news/2023-12/31/die-digitale-meldebescheinigung-ist-noch-nicht-der-renner
